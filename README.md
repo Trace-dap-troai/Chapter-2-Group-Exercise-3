@@ -1,3 +1,10 @@
+# Group Members
+
+Munib Ahmed
+
+Chech Trac, Way
+
+Mehatab
 # Neural Network Classification Project
 
 ## Objective
